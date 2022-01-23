@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 0 3rem;
+  min-width: 480px;
+}
+
+h1,
+p {
+  font-family: Lato;
+}
